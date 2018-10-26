@@ -1,4 +1,4 @@
-# Embed Vue.js file as String into your Go code
+# Embed Vue.js file as a string into your Go code
 
 # Usage
 
